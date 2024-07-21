@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <description name="UPL File Editor Update Site">
+      UPL File Editor Update Site
+   </description>
+   <feature url="features/UplFileEditorFeature_1.0.0.jar" id="UplFileEditorFeature" version="1.0.0">
+      <category name="UplEditor"/>
+   </feature>
+   <category-def name="UplEditor" label="UplEditor">
+      <description>
+         UPL Editor Features
+      </description>
+   </category-def>
+</site>
